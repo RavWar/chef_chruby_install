@@ -13,3 +13,6 @@ Gemfile.lock
 bin/*
 .bundle/*
 
+# Test Kitchen
+.kitchen
+.kitchen.local.yml
